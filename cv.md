@@ -4,21 +4,21 @@
 ### Frontend Developer
 
 #Contacts
-*__Phone__: +7-(982)-307-36-77
-*__E-Mail__: apururu@mail.ru
-*__Telegram__: @andtey99399
-*__GitHub__: [andtey99399](https://github.com/andtey99399)
+- __Phone__: +7-(982)-307-36-77
+- __E-Mail__: apururu@mail.ru
+- __Telegram__: @andtey99399
+- __GitHub__: [andtey99399](https://github.com/andtey99399)
 
 # About Me
 I want to dive into frontend development and become a real professional. At the moment there are several works in the portfolio, which can be found on the GitHub page. I am goal-oriented, I have good communication skills, I have a great desire to gain new experience.
 
 # Skills
-*HTML5/Pug
-*CSS3/SASS
-*JavaScript(ES6+, DOM, JSON)
-*Gulp/Webpack
-*Git
-*OOP
+- HTML5/Pug
+- CSS3/SASS
+- JavaScript(ES6+, DOM, JSON)
+- Gulp/Webpack
+- Git
+- OOP
 
 # Code Example
 ### Task
@@ -41,9 +41,9 @@ function humanReadable(seconds) {
 ```
 
 # Education
-*Chelyabink State University (CSU)
+- Chelyabink State University (CSU)
     *Applied Mathematics and Computer Science
-*Codewars
+- Codewars
 ![Stats](https://www.codewars.com/users/andtey99399/badges/large)
 
 # Languages

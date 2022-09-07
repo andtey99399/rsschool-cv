@@ -47,5 +47,5 @@ function humanReadable(seconds) {
 ![Stats](https://www.codewars.com/users/andtey99399/badges/large)
 
 # Languages
-*Russian (Native)
-#English (Intermediate/B1)
+- Russian (Native)
+- English (Intermediate/B1)

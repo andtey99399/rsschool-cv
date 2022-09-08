@@ -41,7 +41,7 @@ function humanReadable(seconds) {
 ```
 
 # Education
-- Chelyabink State University (CSU)
+- Chelyabink State University (CSU);
     *Applied Mathematics and Computer Science
 - Codewars
 ![Stats](https://www.codewars.com/users/andtey99399/badges/large)
